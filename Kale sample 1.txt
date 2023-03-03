@@ -3,3 +3,5 @@ git status
 git add .
 git commit -m"commit kale file"
 git status
+git pull 
+git push

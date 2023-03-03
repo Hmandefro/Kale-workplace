@@ -2,7 +2,7 @@ create new file
 TO inform the machine about you 
 git config --global user.name "hmandefro"
 git config --global user.email "haileeyesus.mandefro
-
+git pull origin master
 
 
 
