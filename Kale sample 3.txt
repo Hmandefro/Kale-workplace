@@ -1,1 +1,2 @@
 Additional file for sample
+git config --global
