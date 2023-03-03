@@ -1,1 +1,5 @@
 Git init
+git status
+git add .
+git commit -m"commit kale file"
+git status
